@@ -1,51 +1,67 @@
-# Olá, eu sou Douglas Maia! 👋
+# Hi there, I'm Douglas Maia! 👋
 
-Bem-vindo ao meu perfil no GitHub!
+### Full Stack Software Engineer
 
-## Sobre Mim
-Sou apaixonado por desenvolvimento e sempre em busca de novos desafios. Atualmente, estou focado em aprimorar minhas habilidades em **NestJS** e explorar novas áreas da programação.
+I am a developer focused on building **high-performance** web applications. I specialize in taking products **from concept to production (0 to 1)**, with a strong focus on modern backends and AI integration. Currently, I am exploring the bleeding edge of the JavaScript ecosystem with **Bun** and **Hono**.
 
-- 🔭 Atualmente trabalho na construção da **[Kingdom Softwares](https://www.instagram.com/kingdom_softwares)**
-- 🌱 Aprendendo **Rust**
-- 👯 Procuro colaborar em projetos open source
-- 📫 Entre em contato: contato@douglasmaia.dev.br
+- 🔭 Working on **[AppWilo](https://lp.appwilo.com)** (SaaS) and **[Pulse Guard](https://github.com/DouglasMai4/pulse-guard)** (Open Source)
+- 🚀 Exploring high-performance runtimes with **Bun** & **Rust**
+- 🤖 Experienced in building **AI-powered solutions** from scratch
+- 📫 Contact: **contato@douglasmaia.dev.br**
 
-## Ferramentas e Tecnologias
-![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=orange)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white&color=blue)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ret44?style=for-the-badge&logo=tailwindcss&logoColor=white&color=56cfe1)
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ret44?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-ret44?style=for-the-badge&logo=typescript&logoColor=white&color=00b4d8)
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+## 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-ret44?style=for-the-badge&logo=react&logoColor=white&color=0582ca)
-![VueJS](https://img.shields.io/badge/VueJS-ret44?style=for-the-badge&logo=vuedotjs&logoColor=white&color=52b788)
-![Angular](https://img.shields.io/badge/Angular-ret44?style=for-the-badge&logo=angular&logoColor=white&color=ef233c)
-
-![Express](https://img.shields.io/badge/ExpressJS-ret44?style=for-the-badge&logo=express&logoColor=black&color=white)
-![Fastify](https://img.shields.io/badge/Fastify-ret44?style=for-the-badge&logo=fastify&logoColor=white&color=black)
-![NestJS](https://img.shields.io/badge/NestJS-ret44?style=for-the-badge&logo=nestjs&logoColor=white&color=ef233c)
-
-![MySQL](https://img.shields.io/badge/MySQL-ret44?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
-![Postgres](https://img.shields.io/badge/Postgres-ret44?style=for-the-badge&logo=postgresql&logoColor=black&color=8ecae6)
-![MongoDB](https://img.shields.io/badge/MongoDB-ret44?style=for-the-badge&logo=mongodb&logoColor=white&color=green)
-
-![Linux](https://img.shields.io/badge/Linux-dsfdsf?style=for-the-badge&logo=linux&logoColor=black&color=%23FCC624)
-![NGINX](https://img.shields.io/badge/nginx-dsfdsf?style=for-the-badge&logo=nginx&logoColor=white&color=%23009639)
-![Redes](https://img.shields.io/badge/Redes-dsfdsf?style=for-the-badge&logo=pfsense&logoColor=white&color=%23212121)
-
-## Projetos em Destaque
-- [Disparador Whatsapp](https://www.instagram.com/kingdom_softwares) — Ferramenta para disparos em maça utilizando whatsapp.
-- [CRM - (EM DESENVOLVIMENTO)](https://www.instagram.com/kingdom_softwares) — CRM completo para a administração de seus clientes com integração ao whatsapp.
-- [Kia](https://www.instagram.com/kingdom_softwares) — Autoatendimento utilizando inteligencia artificial no whatsapp.
-
-## Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DouglasMai4&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+### Current Favorites (High Performance)
+<div style="display: flex; gap: 10px; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=fire&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
 
-## Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dsfdsf?style=for-the-badge&logo=indeed&logoColor=white&color=blue)](https://www.linkedin.com/in/douglasmai4)
-[![Instagram](https://img.shields.io/badge/Instagram-dsfdsf?style=for-the-badge&logo=instagram&logoColor=white&color=ef476f)](https://instagram.com/douglasmai4)
-[![Site](https://img.shields.io/badge/Site-dsfdsf?style=for-the-badge&logo=nginx&logoColor=white&color=yellow)](https://douglasmaia.dev.br)
+### Core Competencies & Infrastructure
+<div style="display: flex; gap: 10px; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+---
+
+## 🚀 Projects
+
+| Project | Status | Description | Stack |
+| :--- | :--- | :--- | :--- |
+| **[AppWilo](https://lp.appwilo.com)** | 🟢 **Live** | A SaaS platform running in production with active clients. Focused on stability and user experience. | `NodeJS` `Express` `React` |
+| **[Pulse Guard](https://github.com/DouglasMai4/pulse-guard)** | 🏗️ **In Dev** | An **Open Source** Status Page system designed to be lightweight and easily deployable. | `Bun` `Hono` `Tailwind` |
+
+---
+
+## 💡 Engineering Experience
+
+My career has been defined by **building products from scratch**. I have worked on several early-stage startups and projects where I was responsible for the entire lifecycle:
+
+* **Architecture from 0 to 1:** I have extensive experience setting up the initial architecture for scalable applications.
+* **AI Integration:** I have built multiple systems integrating LLMs and AI agents into practical business workflows.
+* **Adaptability:** Having worked in dynamic environments, I am used to pivoting technologies and delivering functional MVPs rapidly.
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/douglasmai4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://douglasmaia.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website Badge"/>
+  </a>
+  <a href="mailto:contato@douglasmaia.dev.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
